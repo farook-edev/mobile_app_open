@@ -1,9 +1,9 @@
 {
   "@@locale": "ar",
-  "unknown": "Unknown",
-  "na": "N/A",
+  "unknown": "مجهول",
+  "na": "غ/م",
   "menuHome": "MLPerf Mobile",
-  "menuHistory": "History",
+  "menuHistory": "السّجل",
   "menuSettings": "الإعدادات",
   "menuResources": "Resources",
   "menuAbout": "About",
